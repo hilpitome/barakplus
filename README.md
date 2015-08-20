@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This is a simple gem that adds two numbers.
 
 ## Development
 
